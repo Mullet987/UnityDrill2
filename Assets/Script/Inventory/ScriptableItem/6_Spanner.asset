@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c3e4870cf8ef14b836b7303a1d4b5f, type: 3}
+  m_Name: 6_Spanner
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: e823bc6f099863143b8b85fedf916b6e, type: 3}
+  itemIndex: 6
+  itemName: "\uC2A4\uD328\uB108"
+  itemDescription: "\uBCFC\uD2B8\uB97C \uC870\uC744 \uB54C \uC4F4\uB2E4"

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c3e4870cf8ef14b836b7303a1d4b5f, type: 3}
+  m_Name: 8_Grinder
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 7eaf0fca5c407f24a82367c2b5c62d3e, type: 3}
+  itemIndex: 8
+  itemName: "\uADF8\uB77C\uC778\uB354"
+  itemDescription: "\uBB3C\uAC74\uC744 \uC790\uB97C \uB54C \uC4F4\uB2E4"
